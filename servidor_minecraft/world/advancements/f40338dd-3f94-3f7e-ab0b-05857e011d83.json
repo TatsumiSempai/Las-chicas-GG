@@ -2289,6 +2289,7 @@
       "cooked_porkchop": "2025-06-13 04:34:22 +0000",
       "cooked_mutton": "2025-06-13 04:38:54 +0000",
       "cooked_cod": "2025-06-13 04:53:58 +0000",
+      "bread": "2025-06-13 06:41:12 +0000",
       "rotten_flesh": "2025-06-13 04:32:10 +0000",
       "suspicious_stew": "2025-06-13 05:16:38 +0000",
       "dried_kelp": "2025-06-13 04:37:20 +0000",
@@ -4642,6 +4643,30 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-13 06:44:19 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-13 06:42:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-13 06:42:09 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/wither_boots": {
     "criteria": {
       "has_wither_rose": "2025-06-13 06:31:36 +0000"
@@ -4702,6 +4727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-13 06:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-13 06:04:20 +0000"
@@ -4714,6 +4745,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
@@ -4723,6 +4760,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-13 06:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-13 06:43:22 +0000"
     },
     "done": true
   },
@@ -4747,6 +4790,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_leggings": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-13 06:44:19 +0000"
     },
     "done": true
   },
@@ -4828,6 +4877,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:18:01 +0000"
@@ -4855,6 +4910,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-06-13 06:45:08 +0000"
     },
     "done": true
   },
@@ -4894,6 +4955,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-13 06:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-13 06:09:58 +0000"
@@ -4903,6 +4970,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-06-13 06:45:08 +0000"
     },
     "done": true
   },
@@ -4936,6 +5009,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-13 06:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
@@ -4954,6 +5033,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-13 06:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-13 06:04:20 +0000"
@@ -4966,9 +5051,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/pitchfork": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-13 06:41:54 +0000"
     },
     "done": true
   },
@@ -5002,6 +5099,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/squire_helmet": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-13 06:44:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-13 06:04:20 +0000"
@@ -5014,6 +5123,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-13 06:09:58 +0000"
@@ -5023,6 +5138,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-13 06:09:58 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_chestplate": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-13 06:44:19 +0000"
     },
     "done": true
   },
@@ -5038,6 +5159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-13 06:41:59 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2025-06-13 06:22:18 +0000"
@@ -5050,9 +5177,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-13 06:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-06-13 06:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-13 06:41:54 +0000"
     },
     "done": true
   },
@@ -5104,6 +5243,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-13 06:45:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:18:01 +0000"
@@ -5128,15 +5279,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-13 06:41:52 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_chestplate": {
     "criteria": {
       "has_ink_sac": "2025-06-13 05:58:10 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2025-06-13 06:41:51 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sandwich": {
     "criteria": {
       "has_bread": "2025-06-13 06:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-13 06:45:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-13 06:44:19 +0000"
     },
     "done": true
   },
@@ -5161,6 +5342,12 @@
   "chimes:recipes/decorations/bamboo_chimes": {
     "criteria": {
       "has_planks": "2025-06-13 06:22:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-13 06:41:54 +0000"
     },
     "done": true
   },
@@ -5206,6 +5393,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-13 06:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-06-13 06:31:36 +0000"
@@ -5235,6 +5428,12 @@
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
   },
   "knightquest:recipes/misc/evoker_chestplate": {
     "criteria": {
@@ -5266,6 +5465,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
@@ -5281,6 +5486,18 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-13 06:09:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2025-06-13 06:41:51 +0000"
     },
     "done": true
   },
@@ -5326,6 +5543,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-13 06:47:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
@@ -5344,6 +5567,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/deer_venison": {
+    "criteria": {
+      "got_the_venison": "2025-06-13 06:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
@@ -5356,6 +5585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-13 06:45:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-13 06:09:58 +0000"
@@ -5365,6 +5600,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-13 06:09:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-06-13 06:40:56 +0000"
     },
     "done": true
   },
@@ -5398,9 +5639,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-13 06:38:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2025-06-13 06:41:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-13 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2025-06-13 06:41:51 +0000"
     },
     "done": true
   },
@@ -5413,6 +5672,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-06-13 06:41:55 +0000"
     },
     "done": true
   },
@@ -5494,6 +5759,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/squire_boots": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-13 06:44:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/deepslate_leggings": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:19:30 +0000"
@@ -5503,6 +5774,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-13 06:04:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-13 06:38:09 +0000"
     },
     "done": true
   },
