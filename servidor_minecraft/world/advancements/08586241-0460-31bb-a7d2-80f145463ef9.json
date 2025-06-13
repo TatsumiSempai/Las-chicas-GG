@@ -3847,6 +3847,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-13 05:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-13 05:40:28 +0000"
@@ -3931,6 +3937,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-06-13 05:50:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-06-13 05:40:28 +0000"
@@ -3940,6 +3952,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-13 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-06-13 05:50:46 +0000"
     },
     "done": true
   },

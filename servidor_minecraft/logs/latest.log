@@ -1129,3 +1129,61 @@ Apply Modifications for deeperdarker:otherside
 [05:40:28] [Server thread/INFO]: _Scorpion269_ has made the advancement [Diamonds!]
 [05:42:25] [Server thread/INFO]: PrinceBrutus08 was shot by Skeleton
 [05:44:05] [Server thread/INFO]: PrinceBrutus08 has made the advancement [Fishy Business]
+[05:50:45] [Server thread/INFO]: _Scorpion269_ has made the advancement [Cover Me with Diamonds]
+[05:51:02] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[05:51:56] [Server thread/INFO]: Zenokoro[/127.94.75.50:48087] logged in with entity id 5612 at (122.5, 64.0, -153.5)
+[05:51:56] [Server thread/INFO]: Syncing config to Zenokoro (e6d85471-314b-368c-abbf-64aba6442c70)
+[05:51:56] [Server thread/INFO]: Zenokoro joined the game
+[05:51:56] [Server thread/INFO]: Zenokoro has made the advancement [Mobs of Mythology]
+[05:51:56] [Server thread/INFO]: Zenokoro has made the advancement [Useless Reptile]
+[05:52:03] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:52:03] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:52:03] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:52:03] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:55:24] [Server thread/INFO]: _Scorpion269_ has made the advancement [Suit Up]
