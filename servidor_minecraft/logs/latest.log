@@ -1518,3 +1518,199 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[04:05:06] [Server thread/INFO]: PrinceBrutus08[/127.254.181.190:50469] logged in with entity id 1947 at (122.5, 64.0, -152.5)
+[04:05:06] [Server thread/INFO]: Syncing config to PrinceBrutus08 (55fbcf72-b562-34a1-9996-033bc2199400)
+[04:05:06] [Server thread/INFO]: PrinceBrutus08 joined the game
+[04:05:06] [Server thread/INFO]: PrinceBrutus08 has made the advancement [Useless Reptile]
+[04:05:06] [Server thread/INFO]: PrinceBrutus08 has made the advancement [Mobs of Mythology]
+[04:05:08] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:05:08] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:05:08] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:05:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:05:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:05:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:05:08] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:05:08] [Server thread/INFO]: PrinceBrutus08 lost connection: Disconnected
+[04:05:08] [Server thread/INFO]: PrinceBrutus08 left the game
+[04:05:42] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:07:18] [Server thread/INFO]: PrinceBrutus08[/127.254.181.190:42801] logged in with entity id 2232 at (122.5, 64.0, -152.5)
+[04:07:18] [Server thread/INFO]: Syncing config to PrinceBrutus08 (55fbcf72-b562-34a1-9996-033bc2199400)
+[04:07:18] [Server thread/INFO]: PrinceBrutus08 joined the game
+[04:07:18] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:07:18] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:07:18] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:07:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:07:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:07:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:07:18] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:07:19] [Server thread/INFO]: PrinceBrutus08 lost connection: Disconnected
+[04:07:19] [Server thread/INFO]: PrinceBrutus08 left the game
+[04:07:43] [Server thread/INFO]: Dellshyva[/127.182.141.43:42433] logged in with entity id 2291 at (128.5, 65.0, -168.5)
+[04:07:43] [Server thread/INFO]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[04:07:43] [Server thread/INFO]: Dellshyva joined the game
+[04:07:43] [Server thread/INFO]: Dellshyva has made the advancement [Useless Reptile]
+[04:07:43] [Server thread/INFO]: Dellshyva has made the advancement [Mobs of Mythology]
+[04:07:44] [Server thread/INFO]: Dellshyva lost connection: Disconnected
+[04:07:44] [Server thread/INFO]: Dellshyva left the game
+[04:07:58] [Server thread/INFO]: Dellshyva[/127.182.141.43:38069] logged in with entity id 2323 at (128.5, 65.0, -168.5)
+[04:07:58] [Server thread/INFO]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[04:07:58] [Server thread/INFO]: Dellshyva joined the game
+[04:07:58] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:07:58] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:07:58] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:07:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:07:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:07:58] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:07:58] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:07:59] [Server thread/INFO]: Dellshyva lost connection: Disconnected
+[04:07:59] [Server thread/INFO]: Dellshyva left the game
+[04:08:01] [Server thread/INFO]: Dellshyva[/127.182.141.43:49859] logged in with entity id 2336 at (128.5, 65.0, -168.5)
+[04:08:01] [Server thread/INFO]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[04:08:01] [Server thread/INFO]: Dellshyva joined the game
+[04:08:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:08:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:08:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:08:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:08:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:08:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:08:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:08:01] [Server thread/INFO]: Dellshyva lost connection: Disconnected
+[04:08:01] [Server thread/INFO]: Dellshyva left the game
+[04:08:06] [Server thread/INFO]: Tatsumi_Sempai[/127.0.29.98:42309] logged in with entity id 2348 at (125.5, 72.0, -169.5)
+[04:08:06] [Server thread/INFO]: Syncing config to Tatsumi_Sempai (cffd944a-4d2f-3467-a37d-0a3aa0845211)
+[04:08:06] [Server thread/INFO]: Tatsumi_Sempai joined the game
+[04:08:07] [Server thread/INFO]: Dellshyva[/127.182.141.43:40693] logged in with entity id 2359 at (128.5, 65.0, -168.5)
+[04:08:07] [Server thread/INFO]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[04:08:07] [Server thread/INFO]: Dellshyva joined the game
+[04:08:07] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:08:07] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:08:07] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:08:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:08:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:08:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:08:07] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:08:07] [Server thread/INFO]: Dellshyva lost connection: Disconnected
+[04:08:07] [Server thread/INFO]: Dellshyva left the game
+[04:08:09] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:08:09] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:08:09] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:08:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:08:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:08:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:08:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:08:10] [Server thread/INFO]: Dellshyva[/127.182.141.43:50783] logged in with entity id 2367 at (128.5, 65.0, -168.5)
+[04:08:10] [Server thread/INFO]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[04:08:10] [Server thread/INFO]: Dellshyva joined the game
+[04:08:10] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:08:10] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:08:10] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:08:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:08:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:08:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:08:10] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:08:11] [Server thread/INFO]: Dellshyva lost connection: Disconnected
+[04:08:11] [Server thread/INFO]: Dellshyva left the game
+[04:08:36] [Server thread/INFO]: Tatsumi_Sempai lost connection: Timed out
+[04:08:36] [Server thread/INFO]: Tatsumi_Sempai left the game
+[04:08:36] [Server thread/WARN]: handleDisconnection() called twice
+[04:08:50] [Server thread/INFO]: Tatsumi_Sempai[/127.0.29.98:59949] logged in with entity id 2464 at (125.5, 72.0, -169.5)
+[04:08:50] [Server thread/INFO]: Syncing config to Tatsumi_Sempai (cffd944a-4d2f-3467-a37d-0a3aa0845211)
+[04:08:50] [Server thread/INFO]: Tatsumi_Sempai joined the game
+[04:08:53] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:08:53] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:08:53] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:08:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:08:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:08:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:08:53] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:09:21] [Server thread/INFO]: Tatsumi_Sempai lost connection: Timed out
+[04:09:21] [Server thread/INFO]: Tatsumi_Sempai left the game
+[04:10:00] [Server thread/INFO]: Dellshyva[/127.182.141.43:37719] logged in with entity id 2602 at (128.5, 65.0, -168.5)
+[04:10:00] [Server thread/INFO]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[04:10:00] [Server thread/INFO]: Dellshyva joined the game
+[04:10:00] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:10:00] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:10:00] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:10:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:10:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:10:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:10:00] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:10:00] [Server thread/INFO]: Dellshyva lost connection: Disconnected
+[04:10:00] [Server thread/INFO]: Dellshyva left the game
+[04:10:08] [Server thread/INFO]: Dellshyva[/127.182.141.43:34889] logged in with entity id 2624 at (128.5, 65.0, -168.5)
+[04:10:08] [Server thread/INFO]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[04:10:08] [Server thread/INFO]: Dellshyva joined the game
+[04:10:08] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:10:08] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:10:08] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:10:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:10:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:10:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:10:08] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:10:08] [Server thread/INFO]: Dellshyva lost connection: Disconnected
+[04:10:08] [Server thread/INFO]: Dellshyva left the game
+[04:10:11] [Server thread/INFO]: Dellshyva[/127.182.141.43:40167] logged in with entity id 2638 at (128.5, 65.0, -168.5)
+[04:10:11] [Server thread/INFO]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[04:10:11] [Server thread/INFO]: Dellshyva joined the game
+[04:10:11] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:10:11] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:10:11] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:10:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:10:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:10:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:10:11] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:10:12] [Server thread/INFO]: Dellshyva lost connection: Disconnected
+[04:10:12] [Server thread/INFO]: Dellshyva left the game
+[04:11:10] [Server thread/INFO]: Tatsumi_Sempai[/127.0.29.98:36457] logged in with entity id 2770 at (125.5, 72.0, -169.5)
+[04:11:10] [Server thread/INFO]: Syncing config to Tatsumi_Sempai (cffd944a-4d2f-3467-a37d-0a3aa0845211)
+[04:11:10] [Server thread/INFO]: Tatsumi_Sempai joined the game
+[04:11:11] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:11:11] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:11:11] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:11:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:11:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:11:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:11:11] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Las-chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
