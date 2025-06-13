@@ -87,11 +87,15 @@
     "criteria": {
       "minecraft:mushroom_fields": "2025-06-13 05:17:13 +0000",
       "minecraft:deep_ocean": "2025-06-13 05:15:57 +0000",
+      "minecraft:birch_forest": "2025-06-13 06:25:28 +0000",
       "minecraft:beach": "2025-06-13 04:05:07 +0000",
       "minecraft:river": "2025-06-13 04:31:55 +0000",
       "minecraft:forest": "2025-06-13 04:26:09 +0000",
       "minecraft:lush_caves": "2025-06-13 05:17:48 +0000",
-      "minecraft:ocean": "2025-06-13 04:32:25 +0000"
+      "minecraft:windswept_forest": "2025-06-13 06:28:54 +0000",
+      "minecraft:ocean": "2025-06-13 04:32:25 +0000",
+      "minecraft:windswept_savanna": "2025-06-13 06:28:51 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-13 06:24:52 +0000"
     },
     "done": false
   },
@@ -2326,6 +2330,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-06-13 05:49:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-06-13 06:25:33 +0000"
     },
     "done": true
   },
