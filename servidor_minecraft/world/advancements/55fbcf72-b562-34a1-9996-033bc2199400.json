@@ -90,6 +90,7 @@
       "minecraft:beach": "2025-06-13 04:05:07 +0000",
       "minecraft:river": "2025-06-13 04:31:55 +0000",
       "minecraft:forest": "2025-06-13 04:26:09 +0000",
+      "minecraft:lush_caves": "2025-06-13 05:17:48 +0000",
       "minecraft:ocean": "2025-06-13 04:32:25 +0000"
     },
     "done": false
@@ -109,6 +110,12 @@
   "uselessreptile:recipes/dragon_chestplate_iron": {
     "criteria": {
       "has_item": "2025-06-13 04:58:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 05:24:14 +0000"
     },
     "done": true
   },
@@ -163,6 +170,12 @@
   "spuds_shops:recipes/building_blocks/shop_oak_green": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 05:24:14 +0000"
     },
     "done": true
   },
@@ -223,6 +236,12 @@
   "knightquest:recipes/misc/zombie_leggings": {
     "criteria": {
       "has_rotten_flesh": "2025-06-13 04:56:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 05:24:14 +0000"
     },
     "done": true
   },
@@ -426,6 +445,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-13 05:23:56 +0000",
       "minecraft:silverfish": "2025-06-13 04:52:25 +0000",
       "minecraft:zombie": "2025-06-13 04:56:03 +0000"
     },
@@ -743,6 +763,12 @@
     },
     "done": true
   },
+  "monsters_girls:recipes/decorations/huge_brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-13 05:24:14 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/armored_ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-06-13 04:26:26 +0000"
@@ -758,6 +784,12 @@
   "bakery:recipes/rolling_pin": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "monsters_girls:recipes/misc/powder_genesis": {
+    "criteria": {
+      "has_mushrooms": "2025-06-13 05:24:14 +0000"
     },
     "done": true
   },
@@ -1371,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-13 05:24:14 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/zombie_helmet2": {
     "criteria": {
       "has_rotten_flesh": "2025-06-13 04:56:48 +0000"
@@ -1404,6 +1442,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-13 04:47:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 05:24:14 +0000"
     },
     "done": true
   },
@@ -2034,6 +2078,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-06-13 04:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-13 05:24:14 +0000"
     },
     "done": true
   },

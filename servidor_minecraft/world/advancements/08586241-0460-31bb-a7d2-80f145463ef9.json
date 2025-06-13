@@ -1634,6 +1634,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-06-13 05:18:08 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_cherry_orange": {
     "criteria": {
       "has_chest": "2025-06-13 05:10:57 +0000"
@@ -1787,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-06-13 05:18:08 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_dark_oak_gray": {
     "criteria": {
       "has_chest": "2025-06-13 05:10:57 +0000"
@@ -1814,6 +1826,12 @@
   "spuds_shops:recipes/building_blocks/shop_bamboo_brown": {
     "criteria": {
       "has_chest": "2025-06-13 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-13 05:18:08 +0000"
     },
     "done": true
   },
@@ -3032,6 +3050,12 @@
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_chest": "2025-06-13 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-06-13 05:18:08 +0000"
     },
     "done": true
   },

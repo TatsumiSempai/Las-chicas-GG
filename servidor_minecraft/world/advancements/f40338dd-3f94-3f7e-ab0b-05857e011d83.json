@@ -2498,6 +2498,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-06-13 05:19:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-06-13 04:37:19 +0000"
@@ -4394,7 +4400,8 @@
       "cooked_cod": "2025-06-13 04:53:58 +0000",
       "rotten_flesh": "2025-06-13 04:32:10 +0000",
       "suspicious_stew": "2025-06-13 05:16:38 +0000",
-      "dried_kelp": "2025-06-13 04:37:20 +0000"
+      "dried_kelp": "2025-06-13 04:37:20 +0000",
+      "cooked_salmon": "2025-06-13 05:18:27 +0000"
     },
     "done": false
   },
