@@ -47,9 +47,93 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/polar_boots": {
+    "criteria": {
+      "has_iron_axe": "2025-06-13 05:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:recipes/dragon_chestplate_iron": {
+    "criteria": {
+      "has_item": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-13 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2025-06-13 04:45:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-13 05:02:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
     },
     "done": true
   },
@@ -59,15 +143,123 @@
     },
     "done": true
   },
+  "bclib:recipes/tools/tag_compass": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_cherry_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-13 04:32:31 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_green": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-06-13 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-06-13 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-06-13 04:56:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_chestplate": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_chestplate": {
+    "criteria": {
+      "has_coal": "2025-06-13 04:38:38 +0000"
     },
     "done": true
   },
@@ -83,9 +275,57 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-06-13 04:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_helmet": {
     "criteria": {
       "has_sandstone": "2025-06-13 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-06-13 05:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-13 04:51:08 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-13 04:38:49 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -95,9 +335,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
     },
     "done": true
   },
@@ -107,9 +377,51 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_iron_axe": "2025-06-13 05:05:41 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/mud_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_light_blue": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_leggings": {
+    "criteria": {
+      "has_emerald": "2025-06-13 04:57:49 +0000"
     },
     "done": true
   },
@@ -125,9 +437,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_acacia": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -137,9 +461,51 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/quartz_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/kukri_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-06-13 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
     },
     "done": true
   },
@@ -149,9 +515,57 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_cherry_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-06-13 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-06-13 05:02:36 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:recipes/dragon_tail_armor_gold": {
+    "criteria": {
+      "has_item": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -161,9 +575,45 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-13 04:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-13 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -173,9 +623,33 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_acacia_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/acacia_wine_rack_small": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_leggings": {
+    "criteria": {
+      "has_coal": "2025-06-13 04:38:38 +0000"
     },
     "done": true
   },
@@ -185,15 +659,111 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/plow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:recipes/dragon_helmet_diamond": {
+    "criteria": {
+      "has_item": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/kukri": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-13 04:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-06-13 04:23:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-06-13 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-13 04:58:47 +0000"
     },
     "done": true
   },
@@ -209,9 +779,188 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_acacia_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/mincer": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:vindicator": "2025-06-13 04:56:50 +0000",
+      "minecraft:creeper": "2025-06-13 04:58:14 +0000",
+      "minecraft:enderman": "2025-06-13 04:38:14 +0000",
+      "minecraft:silverfish": "2025-06-13 04:51:47 +0000",
+      "minecraft:zombie": "2025-06-13 05:03:48 +0000",
+      "minecraft:drowned": "2025-06-13 04:28:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-13 04:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2025-06-13 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_small": {
+    "criteria": {
+      "has_mangrove_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_boots": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_helmet": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-13 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -221,9 +970,111 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-06-13 04:28:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 04:51:08 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-13 04:58:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-13 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/hook_shop": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-13 04:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
     },
     "done": true
   },
@@ -233,9 +1084,69 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_crimson": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cupcake_display": {
     "criteria": {
       "has_stick": "2025-06-13 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
     },
     "done": true
   },
@@ -245,9 +1156,105 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/letios_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-06-13 04:16:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-13 04:37:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "hamsters:recipes/hamster_wheel": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_chair": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
     },
     "done": true
   },
@@ -257,9 +1264,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/iron_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-13 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:recipes/dragon_helmet_iron": {
+    "criteria": {
+      "has_item": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
     },
     "done": true
   },
@@ -269,9 +1318,69 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_leggings": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_gray": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_boots": {
+    "criteria": {
+      "has_coal": "2025-06-13 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana_katana": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
     },
     "done": true
   },
@@ -281,9 +1390,33 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-13 04:32:00 +0000"
     },
     "done": true
   },
@@ -293,9 +1426,147 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-13 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-06-13 04:36:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-06-13 05:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-13 04:34:38 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/granite_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:recipes/dragon_tail_armor_diamond": {
+    "criteria": {
+      "has_item": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-06-13 05:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-13 04:22:50 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_jungle": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador3_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -329,6 +1600,12 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_acacia_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/armored_ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-06-13 04:16:03 +0000"
@@ -338,6 +1615,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-13 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -353,15 +1636,33 @@
     },
     "done": true
   },
+  "monsters_girls:recipes/misc/powder_genesis": {
+    "criteria": {
+      "has_mushrooms": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-13 04:23:48 +0000"
     },
     "done": true
   },
+  "bclib:recipes/transportation/tag_minecart": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-13 04:23:22 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -372,9 +1673,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-13 05:02:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/misc/tag_bucket": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_iron_axe": "2025-06-13 05:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "niftycarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2025-06-13 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -384,9 +1757,33 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_jungle_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/roaster": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-13 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -426,9 +1823,39 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-13 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
     },
     "done": true
   },
@@ -438,9 +1865,33 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/zombie_boots": {
     "criteria": {
       "has_rotten_flesh": "2025-06-13 04:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-13 04:58:45 +0000"
     },
     "done": true
   },
@@ -450,15 +1901,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-06-13 04:21:12 +0000"
     },
     "done": true
   },
+  "vinery:recipes/mangrove_wine_rack_big": {
+    "criteria": {
+      "has_mangrove_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_white": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-13 04:38:49 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandstone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
     },
     "done": true
   },
@@ -480,9 +1973,75 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-13 04:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-13 04:32:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-06-13 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_cherry": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-06-13 04:32:30 +0000"
     },
     "done": true
   },
@@ -492,9 +2051,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/misc/snowflake_banner_pattern": {
     "criteria": {
       "has_packed_snowball": "2025-06-13 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-06-13 04:44:41 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_boots": {
+    "criteria": {
+      "has_fur": "2025-06-13 04:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
     },
     "done": true
   },
@@ -510,11 +2153,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-06-13 04:14:12 +0000"
     },
     "done": false
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
@@ -522,9 +2177,45 @@
     },
     "done": true
   },
+  "vinery:recipes/big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_feather": "2025-06-13 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/rug_shop": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_chestplate": {
+    "criteria": {
+      "has_emerald": "2025-06-13 04:57:49 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/wall_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-13 04:58:42 +0000"
     },
     "done": true
   },
@@ -537,6 +2228,18 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-13 04:51:38 +0000"
     },
     "done": true
   },
@@ -582,6 +2285,24 @@
     },
     "done": true
   },
+  "uselessreptile:recipes/dragon_chestplate_diamond": {
+    "criteria": {
+      "has_item": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-06-13 05:05:34 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:main/find_wild_crops": {
     "criteria": {
       "oat": "2025-06-13 04:16:03 +0000",
@@ -609,9 +2330,63 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-06-13 04:38:16 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_mangrove": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-06-13 04:58:47 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
     },
     "done": true
   },
@@ -627,6 +2402,42 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-13 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-06-13 04:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
@@ -636,6 +2447,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/small_cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
     },
     "done": true
   },
@@ -651,15 +2468,183 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-06-13 04:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-06-13 04:37:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 04:51:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-13 04:28:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-13 04:38:15 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2025-06-13 04:23:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_iron_ingots_stonecutting": {
+    "criteria": {
+      "has_iron_ingots": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/acacia_wine_rack_big": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-06-13 04:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-13 04:58:47 +0000"
+    },
+    "done": true
+  },
+  "monsters_girls:recipes/decorations/huge_fly_red_agaric_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-13 05:05:34 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/misc/contract_scroll": {
+    "criteria": {
+      "has_feather": "2025-06-13 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
     },
     "done": true
   },
@@ -687,9 +2672,45 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/kitchen_sink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -699,9 +2720,27 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_crimson_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -711,9 +2750,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-13 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-13 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_boots": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
     },
     "done": true
   },
@@ -723,9 +2822,27 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-06-13 04:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_boots": {
     "criteria": {
       "has_sandstone": "2025-06-13 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -735,15 +2852,273 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 04:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-06-13 04:23:48 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-13 04:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_iron_axe": "2025-06-13 05:05:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-13 05:02:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_warped": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-13 04:56:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-06-13 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-13 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-13 04:34:04 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 04:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-13 04:57:49 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/supply_cart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-06-13 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:recipes/dragon_chestplate_gold": {
+    "criteria": {
+      "has_item": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
     "criteria": {
       "has_fur_armor": "2025-06-13 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -759,9 +3134,45 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_jungle_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -771,9 +3182,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-13 04:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-13 04:58:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 04:32:00 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/street_sign": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/red_nether_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -783,9 +3242,45 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_warped_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-13 05:07:20 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/transportation/tag_rail": {
     "criteria": {
       "has_stick": "2025-06-13 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_window_andesite": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-06-13 04:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
     },
     "done": true
   },
@@ -795,15 +3290,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_birch": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -819,9 +3350,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_dark_oak": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-13 04:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
     },
     "done": true
   },
@@ -831,9 +3398,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-06-13 04:44:41 +0000"
     },
     "done": true
   },
@@ -849,6 +3440,36 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_crimson_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-13 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/tray": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
@@ -861,9 +3482,75 @@
     },
     "done": true
   },
+  "uselessreptile:recipes/dragon_tail_armor_iron": {
+    "criteria": {
+      "has_item": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-13 05:02:52 +0000"
+    },
+    "done": true
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-06-13 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cobblestone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_chestplate": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -873,11 +3560,77 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_birch_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-13 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/redstone/tnt_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_oak": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "monsters_girls:recipes/decorations/huge_fly_yellow_agaric_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-13 04:58:47 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-06-13 04:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-06-13 04:14:12 +0000"
     },
     "done": false
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
   },
   "spuds_shops:recipes/building_blocks/shop_oak_red": {
     "criteria": {
@@ -891,9 +3644,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_purple": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-13 05:02:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_bamboo": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
   "knightquest:knightquest": {
     "criteria": {
       "requirement": "2025-06-13 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2025-06-13 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/deepslate_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -902,6 +3739,84 @@
       "log_spam_fixer": "2025-06-13 04:14:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-13 04:38:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-13 04:37:19 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shelf_shop_spruce": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/gilded_beads": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-13 04:32:31 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-13 04:38:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_window_calcite": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_helmet": {
+    "criteria": {
+      "has_emerald": "2025-06-13 04:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-13 04:28:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
@@ -915,9 +3830,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-13 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -927,9 +3860,33 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-13 04:16:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-13 05:16:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_helmet": {
+    "criteria": {
+      "has_coal": "2025-06-13 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2025-06-13 04:45:18 +0000"
     },
     "done": true
   },
@@ -939,9 +3896,105 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/feeding_trough": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-13 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-13 05:02:52 +0000"
+    },
+    "done": false
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/copper_silo": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-13 04:28:22 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/end_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/water_sprinkler": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
     },
     "done": true
   },
@@ -951,9 +4004,57 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_spruce_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-13 04:32:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-13 04:32:31 +0000"
     },
     "done": true
   },
@@ -969,15 +4070,93 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-06-13 04:14:12 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-13 04:38:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/iron_brush": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-06-13 04:22:43 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_light_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_orange": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-13 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -993,15 +4172,99 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_jungle_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-13 04:51:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_green": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_pink": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 04:22:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_hopper": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_boots": {
+    "criteria": {
+      "has_emerald": "2025-06-13 04:57:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-13 04:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-06-13 04:28:54 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_lime": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -1013,14 +4276,54 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-06-13 05:00:35 +0000",
+      "minecraft:deep_ocean": "2025-06-13 04:52:37 +0000",
       "minecraft:beach": "2025-06-13 04:20:41 +0000",
-      "minecraft:forest": "2025-06-13 04:14:12 +0000"
+      "minecraft:river": "2025-06-13 04:42:10 +0000",
+      "minecraft:forest": "2025-06-13 04:14:12 +0000",
+      "minecraft:ocean": "2025-06-13 04:50:23 +0000"
     },
     "done": false
+  },
+  "farm_and_charm:recipes/crafting_bowl": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-06-13 04:27:55 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
   },
   "bakery:recipes/bread_box": {
     "criteria": {
       "has_stick": "2025-06-13 04:23:51 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_magenta": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -1030,9 +4333,45 @@
     },
     "done": true
   },
+  "uselessreptile:recipes/dragon_helmet_gold": {
+    "criteria": {
+      "has_item": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_cyan": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-13 04:22:50 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_light_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_yellow": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -1042,15 +4381,86 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-13 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-06-13 04:34:22 +0000",
+      "cooked_mutton": "2025-06-13 04:38:54 +0000",
+      "cooked_cod": "2025-06-13 04:53:58 +0000",
+      "rotten_flesh": "2025-06-13 04:32:10 +0000",
+      "suspicious_stew": "2025-06-13 05:16:38 +0000",
+      "dried_kelp": "2025-06-13 04:37:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-13 04:51:08 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_black": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-13 04:58:15 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_chestplate": {
     "criteria": {
       "has_sandstone": "2025-06-13 04:22:45 +0000"
     },
     "done": true
   },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-13 04:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-13 04:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-13 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-06-13 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/brewing/tag_cauldron": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_blue": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -1066,9 +4476,69 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2025-06-13 04:45:18 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/toolrack": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-13 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-13 04:58:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_red": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_brown": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_feather": "2025-06-13 04:45:18 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_cyan": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_gray": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
     },
     "done": true
   },
@@ -1078,15 +4548,51 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_stonecutter": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_counter": {
     "criteria": {
       "has_oak_planks": "2025-06-13 04:23:48 +0000"
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_warped_white": {
+    "criteria": {
+      "has_chest": "2025-06-13 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-06-13 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/stone_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 04:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-13 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-13 04:57:41 +0000"
     },
     "done": true
   },
